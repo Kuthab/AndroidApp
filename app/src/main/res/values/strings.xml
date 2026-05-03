@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Photos</string>
+
+    <string name="albums">Albums</string>
+    <string name="search">Search</string>
+    <string name="new_album">New album</string>
+    <string name="rename_album">Rename album</string>
+    <string name="delete_album">Delete album</string>
+    <string name="album_name_hint">Album name</string>
+    <string name="no_albums">No albums yet. Tap + to create one.</string>
+
+    <string name="add_photo">Add photo</string>
+    <string name="remove_photo">Remove photo</string>
+    <string name="move_photo">Move photo</string>
+    <string name="open_photo">Open</string>
+    <string name="no_photos">This album is empty. Tap + to add a photo.</string>
+    <string name="album_count">%1$d photo(s)</string>
+
+    <string name="slideshow_prev">Previous</string>
+    <string name="slideshow_next">Next</string>
+    <string name="add_tag">Add tag</string>
+    <string name="delete_tag">Delete tag</string>
+    <string name="tag_value_hint">Tag value</string>
+    <string name="tag_type">Tag type</string>
+    <string name="person">Person</string>
+    <string name="location">Location</string>
+    <string name="no_tags">No tags</string>
+
+    <string name="search_hint">Type a value (auto-complete)</string>
+    <string name="search_button">Search</string>
+    <string name="add_criterion">Add criterion</string>
+    <string name="clear">Clear</string>
+    <string name="combine_and">AND</string>
+    <string name="combine_or">OR</string>
+    <string name="single_criterion">Single</string>
+    <string name="no_results">No matching photos.</string>
+    <string name="from_album">From: %1$s</string>
+
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="confirm">Confirm</string>
+
+    <string name="dup_album">An album with that name already exists.</string>
+    <string name="empty_name">Name cannot be empty.</string>
+    <string name="dup_photo">That photo is already in this album.</string>
+    <string name="dup_tag">That tag already exists on this photo.</string>
+    <string name="pick_album">Pick a destination album</string>
+    <string name="no_other_album">There are no other albums to move this photo to.</string>
+</resources>
